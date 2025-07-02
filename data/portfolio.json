@@ -1,10 +1,10 @@
 [
     {
       "Id": "1",
-      "pImg": "img-1.jpg",
-      "ps1img": "img-1.jpg",
-      "psub1img1": "p1.jpg",
-      "psub1img2": "p2.jpg",
+      "pImg": "https://www.vedantu.com/question-sets/3274a352-a8f9-4775-ba65-55e45d7d6c401155996009297068396.png",
+      "ps1img": "https://www.vedantu.com/question-sets/3274a352-a8f9-4775-ba65-55e45d7d6c401155996009297068396.png",
+      "psub1img1": "https://www.vedantu.com/question-sets/3274a352-a8f9-4775-ba65-55e45d7d6c401155996009297068396.png",
+      "psub1img2": "https://www.vedantu.com/question-sets/3274a352-a8f9-4775-ba65-55e45d7d6c401155996009297068396.png",
       "title": "Arrangement Of Leaf",
       "subTitle": "Architecture",
       "filterName": "all app",
@@ -12,10 +12,10 @@
     },
     {
       "Id": "2",
-      "pImg": "img-2.jpg",
-      "ps1img": "img-2.jpg",
-      "psub1img1": "p1.jpg",
-      "psub1img2": "p2.jpg",
+      "pImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHw85euWDZ3hTyJgw6h3hHOnRD9PRzhlZgA&s",
+      "ps1img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHw85euWDZ3hTyJgw6h3hHOnRD9PRzhlZgA&s",
+      "psub1img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHw85euWDZ3hTyJgw6h3hHOnRD9PRzhlZgA&s",
+      "psub1img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHw85euWDZ3hTyJgw6h3hHOnRD9PRzhlZgA&s",
       "title": "Creative Graphics",
       "subTitle": "Web Design",
       "filterName": "all graphics",
@@ -23,24 +23,13 @@
     },
     {
       "Id": "3",
-      "pImg": "img-3.jpg",
-      "ps1img": "img-3.jpg",
-      "psub1img1": "p1.jpg",
-      "psub1img2": "p2.jpg",
+      "pImg": "https://intersmart.ae/wp-content/uploads/2024/10/What-is-web-designing.webp",
+      "ps1img": "https://intersmart.ae/wp-content/uploads/2024/10/What-is-web-designing.webp",
+      "psub1img1": "https://intersmart.ae/wp-content/uploads/2024/10/What-is-web-designing.webp",
+      "psub1img2": "https://intersmart.ae/wp-content/uploads/2024/10/What-is-web-designing.webp",
       "title": "Image Multiple Effect",
       "subTitle": "Website / Creative",
       "filterName": "all website app",
-      "description": "Sagittis volutpat commodo suspendisse sed in lorem felis eget massa. Risus magna suspendisse sedleo matt bortr malesuada."
-    },
-    {
-      "Id": "4",
-      "pImg": "img-4.jpg",
-      "ps1img": "img-4.jpg",
-      "psub1img1": "p1.jpg",
-      "psub1img2": "p2.jpg",
-      "title": "Dynamic Color Schemes",
-      "subTitle": "UI/UX Design",
-      "filterName": "all graphics",
       "description": "Sagittis volutpat commodo suspendisse sed in lorem felis eget massa. Risus magna suspendisse sedleo matt bortr malesuada."
     }
   ]
