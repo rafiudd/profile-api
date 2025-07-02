@@ -54,6 +54,18 @@ app.post('/contact', (req, res) => {
     });
 });
 
+// Route untuk mendapatkan data pesan kontak
+app.get('/contact', (req, res) => {
+  fs.readJson(messagesFilePath)
+    .then((messages) => {
+      res.status(200).json(messages);
+    })
+    .catch((err) => {
+      console.error(err);
+      res.status(500).json({ success: false, message: 'Terjadi kesalahan saat mengambil data pesan.' });
+    });
+});
+
 // Route untuk menambahkan data portofolio (Bonus: CRUD sederhana)
 app.post('/portfolio', (req, res) => {
   const { title, description, url } = req.body;
